@@ -21,4 +21,8 @@ public class HomeworkActivity extends AppCompatActivity {
         Intent intent=new Intent(this,HomeworkActivity2.class);
         startActivity(intent);
     }
+    public void homework3(View view){
+        Intent intent=new Intent(this,HomeworkActivity2.class);
+        startActivity(intent);
+    }
 }

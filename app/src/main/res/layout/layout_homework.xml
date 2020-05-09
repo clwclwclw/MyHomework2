@@ -14,5 +14,9 @@
         android:text="作业2"
         android:onClick="homework2"
         android:layout_height="wrap_content" />
-
+    <Button
+        android:layout_width="wrap_content"
+        android:text="作业3"
+        android:onClick="homework3"
+        android:layout_height="wrap_content" />
 </LinearLayout>
